@@ -14,6 +14,7 @@ PRODUCT_PACKAGES += \
     MediaUploader.apk \
     NetworkLocation.apk \
     OneTimeInitializer.apk \
+		ServiceGooglePlay.apk \
     SetupWizard.apk \
     Talk2.apk \
     Vending.apk \

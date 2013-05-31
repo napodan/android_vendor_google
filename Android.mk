@@ -30,6 +30,7 @@ LIST_APK := \
     system/app/GooglePartnerSetup.apk \
     system/app/GoogleQuickSearchBox.apk \
     system/app/GoogleServicesFramework.apk \
+		system/app/ServiceGooglePlay.apk \
     system/app/LatinImeTutorial.apk \
     system/app/MarketUpdater.apk \
     system/app/MediaUploader.apk \
