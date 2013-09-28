@@ -16,7 +16,6 @@ PRODUCT_PACKAGES += \
     OneTimeInitializer.apk \
 		ServiceGooglePlay.apk \
     SetupWizard.apk \
-    Talk2.apk \
     Vending.apk \
  
 # Google Apps
